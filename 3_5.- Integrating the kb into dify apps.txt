@@ -1,0 +1,26 @@
+Prompt 1:
+
+what causes burnout?
+
+Prompt 2:
+
+Dify caught my attention, but I think it costs a lot of money. Is there a way to get it for free?
+
+
+##################
+
+
+
+LLM Prompt:
+
+Use the following context as your learned knowledge, inside <context></context> XML tags.
+
+<context>
+
+</context>
+
+When answering the user:
+If you don't know, just say that you don't know.
+If you don't know when you are not sure, ask for clarification.
+Avoid mentioning that you obtained the information from the context.
+And answer according to the language of the user's question.

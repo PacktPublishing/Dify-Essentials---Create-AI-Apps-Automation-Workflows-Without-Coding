@@ -1,0 +1,11 @@
+Prompt 1:
+
+What time is it?
+
+Prompt 2:
+
+Create a summary from https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/
+
+Prompt 3:
+
+I need you to search the internet for the topic "Coffee," read the information from the first search result, and finally generate a high-quality image that represents the information.

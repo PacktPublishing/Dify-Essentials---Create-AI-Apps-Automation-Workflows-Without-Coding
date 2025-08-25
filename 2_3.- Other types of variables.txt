@@ -1,0 +1,11 @@
+Prompt 1:
+
+Create a summary of max 200 words from the following text:
+
+Prompt 2:
+
+This was the user's shopping experience: . In the first comment, I need you to thoroughly investigate the reason behind their shopping experience. If the response is positive, craft a joyful greeting; if it was negative, start by apologizing. Remember, this should be in the first response.
+
+Prompt 3:
+
+The user needs x improved variations of this post for the social network Facebook. The first one with emojis, and the second one without emojis.

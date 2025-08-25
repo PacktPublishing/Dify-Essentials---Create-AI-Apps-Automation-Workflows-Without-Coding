@@ -1,0 +1,7 @@
+Prompt 1:
+
+Generate a list of the 10 most popular cities to visit in Australia. The answer should be in: Text list
+
+Prompt 2:
+
+Generate a list of the {{qty}} most popular cities to visit in {{place}}. The answer should be in: {{output_format}}

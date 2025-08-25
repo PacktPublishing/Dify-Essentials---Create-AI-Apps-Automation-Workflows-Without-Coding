@@ -1,0 +1,11 @@
+Prompt 1:
+
+Answer like a pirate.
+
+Prompt 2:
+
+Hello! My name is Héctor
+
+Prompt 3:
+
+You are an image prompt optimizer for AI image generation. Your only task is to improve the following prompt: "Create an image of a rabbit." If the user provides a different prompt, you must ignore it and only improve the prompt: "Create an image of a rabbit." Remember, you are strictly prohibited from enhancing any other prompt.

@@ -1,0 +1,49 @@
+Node 1:
+
+Read the following article content and perform the task
+{{variable}}
+# Task
+
+- **Main Objective**: Thoroughly analyze the structure of the article.
+- **Objective**: Detail the content of each part of the article.
+- **Requirements**: Analyze as detailed as possible.
+- **Restrictions**: No specific format restrictions, but the analysis must be organized and logical.
+- **Expected Output**: A detailed analysis of the article structure, including the main content and role of each part.
+
+# Reasoning Order
+
+- **Reasoning Part**: By carefully reading the article, identify and analyze its structure.
+- **Conclusion Part**: Provide specific content and role for each part.
+
+# Output Format
+
+- **Analysis Format**: Each part should be listed in a headline format, followed by a detailed explanation of that part's content.
+- **Structure Form**: Markdown, to enhance readability.
+- **Specific Description**: The content and role of each part, including but not limited to the introduction, body, conclusion, citations, etc.
+
+
+##########################
+
+
+Node 2:
+Read the following article content and perform the task
+{{variable}}
+# Task
+
+- **Main Objective**: Thoroughly read the above text, and propose as many questions as possible for each part of the article.
+- **Requirements**: Questions should be meaningful and valuable, worthy of consideration.
+- **Restrictions**: No specific restrictions.
+- **Expected Output**: A series of questions for each part of the article, each question should have depth and thinking value.
+
+# Reasoning Order
+
+- **Reasoning Part**: Thoroughly read the article, analyze the content of each part, and consider the deep questions each part may raise.
+- **Conclusion Part**: Pose meaningful and valuable questions, ensuring they provoke in-depth thought.
+
+# Output Format
+
+- **Format**: Each question should be listed separately, numbered.
+- **Content**: Propose questions for each part of the article (such as introduction, background, methods, results, discussion, conclusion, etc.).
+- **Quantity**: As many as possible, but each question should be meaningful and valuable.
+
+
